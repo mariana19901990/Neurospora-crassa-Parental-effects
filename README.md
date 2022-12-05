@@ -23,19 +23,19 @@ Data and scripts for the manuscript "Parental effects in a filamentous fungi: ph
 
 ## **Competition experiments**
 #### Script files for analysis are in folder compexp
-- compexp.R contains R scripts to analyze competition experiments
-- HRMqPCR.R contains R scripts required for handling of HRM-PCR data
+- compexp.R : contains R scripts to analyze competition experiments
+- HRMqPCR.R : contains R scripts required for handling of HRM-PCR data
 #### Data files
-- compexp1.RData contains processed data for the first set of competition experiments
-- compexp2.RData contains processed data for the second set of competition experiments
-- 190812_hrm.csv raw data for plate 1 set 1
-- 190812_samples.csv sample information for plate 1 set 1
-- 190812_2_hrm.csv raw data for plate 2 set 1
-- 190812_2_samples.csv sample information for plate 2 set 1
-- 190812_3_hrm.csv raw data for plate 3 set 1
-- 190812_3_samples.csv sample information for plate 3 set 1
-- 190917_PS_hrm.csv raw data for plate 1 set 2
-- 190917_PS_samples.csv sample information for plate 1 set 2
+- compexp1.RData : contains processed data for the first set of competition experiments
+- compexp2.RData : contains processed data for the second set of competition experiments
+- 190812_hrm.csv : raw data for plate 1 set 1
+- 190812_samples.csv : sample information for plate 1 set 1
+- 190812_2_hrm.csv : raw data for plate 2 set 1
+- 190812_2_samples.csv : sample information for plate 2 set 1
+- 190812_3_hrm.csv : raw data for plate 3 set 1
+- 190812_3_samples.csv : sample information for plate 3 set 1
+- 190917_PS_hrm.csv : raw data for plate 1 set 2
+- 190917_PS_samples.csv : sample information for plate 1 set 2
 
 ## **RNA-seq**
 #### Hisat bash script.
