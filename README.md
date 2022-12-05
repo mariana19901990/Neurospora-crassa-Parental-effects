@@ -22,7 +22,7 @@ Data and scripts for the manuscript "Parental effects in a filamentous fungi: ph
 - glycogen_assay120822.csv : glycogen content in conidia in each of the sucrose environment.
 
 ## **Competition experiments**
-#### Script files for analysis are in folder compexp
+#### Script files for the analysis competition experiments are in folder compexp
 - compexp.R : contains R scripts to analyze competition experiments
 - HRMqPCR.R : contains R scripts required for handling of HRM-PCR data
 #### Data files
