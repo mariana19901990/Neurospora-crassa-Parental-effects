@@ -1,10 +1,8 @@
-# Neurospora-crassa-Parental-effects
-Data scripts and script of manuscript "Parental effects in a filamentous fungi: phenotype, fitness and mechanism"
-# N.crassa-parental-effects
-Data for manuscript "Parental effects in a filamentous fungus: phenotype, fitness and mechanism" by Mariana Villalba de la Pena, Pauliina A.M Summanen, Neda N. Moghadam and Ilkka Kronholm
+# Parental effects in *Neurospora crassa*
+Data and scripts for the manuscript "Parental effects in a filamentous fungi: phenotype, fitness and mechanism" by Mariana Villalba de la Pena, Pauliina A.M Summanen, Neda N. Moghadam and Ilkka Kronholm
 
-## **STAT ANALYSIS**
-#### In the stat_analysis.R script code for the analysis of:
+## **STATISTICAL ANALYSIS**
+#### The file stat_analysis.R contains R scripts for the analysis of:
 - Initial growth of the two generations, separated by experiments and all the experiments                       together.
 - Growth rate.
 - Initial growth rate of the mutant strains.
