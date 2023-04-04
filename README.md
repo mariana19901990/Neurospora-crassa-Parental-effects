@@ -21,6 +21,9 @@ Data and scripts for the manuscript "Parental effects in a filamentous fungi: ph
 - glucose_assay141022.csv : glucose content in conidia in each of the sucrose environment.
 - glycogen_assay120822.csv : glycogen content in conidia in each of the sucrose environment.
 
+## **GERMINATION RATE ANALYSIS**
+### The file germination.R contain de contains de R script for the analysis of germination rate. The file germinaton.csv contains the spore count, it is to run the germination.R script.
+
 ## **Competition experiments**
 #### Script files for the analysis competition experiments are in folder compexp
 - compexp.R : contains R scripts to analyze competition experiments
