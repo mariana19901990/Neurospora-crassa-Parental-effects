@@ -4,6 +4,7 @@ Data and scripts for the manuscript "Parental effects in a filamentous fungi: ph
 DOI:  https://doi.org/10.1111/mec.16972
 
 RNA-sequencing data have been deposited to the short read archive, project number PRJNA907747, with sequence accession numbers SRX18465547–SRX18465558
+
 ## **STATISTICAL ANALYSIS**
 #### The file stat_analysis.R contains R scripts for the analysis of:
 - Initial growth of the two generations, separated by experiments and all the experiments                       together.
